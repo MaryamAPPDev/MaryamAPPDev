@@ -20,7 +20,7 @@ and seamless Firebase integrations.
 <h2>🚀 Currently Diving Deeper Into</h2>
 <ul>
   <li>Advanced Flutter animations & state management</li>
-  <li>Firebase Auth, Firestore/li>
+  <li>Firebase Auth, Firestore </li>
   <li>Dart best practices & clean code patterns</li>
 </ul>
 
