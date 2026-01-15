@@ -3,9 +3,9 @@
 Flutter App Developer | Mobile UI Enthusiast | Code-Creator
 </h3>
 
-<p align="center">
+<!-- <p align="center">
 <strong>Flutter Dev • Animations • Clean UI</strong>
-</p>
+</p> -->
 
 <hr>
 
