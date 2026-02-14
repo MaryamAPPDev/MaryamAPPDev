@@ -1,7 +1,13 @@
-<h1 align="center">👋 Hi, I’m Maryam</h1>
-<h3 align="center">
-Flutter App Developer | Mobile UI Enthusiast | Code-Creator
-</h3>
+# 👋 Hello, I'm Maryam
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Flutter+App+Developer;📱+Mobile+UI%2FUX+Specialist;⚡+Building+Scalable+Solutions)
+  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  [![Email](https://img.shields.io/badge/📧_Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamappdev@gmail.com)
+
+</div>
 
 <!-- <p align="center">
 <strong>Flutter Dev • Animations • Clean UI</strong>
