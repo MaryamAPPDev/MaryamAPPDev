@@ -29,7 +29,7 @@ I'm a Flutter developer who builds mobile apps end-to-end — UI, state manageme
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,python)](https://skillicons.dev)
 
 </div>
 
