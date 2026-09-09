@@ -25,37 +25,6 @@ I'm a Flutter developer who builds mobile apps end-to-end — UI, state manageme
 
 <br>
 
-## 🛠️ Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td>
-<a href="https://github.com/MaryamAPPDev/WhatsApp-Clone">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaryamAPPDev&repo=WhatsApp-Clone&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/MaryamAPPDev/Ramadan_Checklist_App">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaryamAPPDev&repo=Ramadan_Checklist_App&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/MaryamAPPDev/Authentication-Sqflite-flutter">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaryamAPPDev&repo=Authentication-Sqflite-flutter&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/MaryamAPPDev/Todo-App--Flutter">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaryamAPPDev&repo=Todo-App--Flutter&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-</table>
-</div>
-
 ## 🧰 Languages and Tools
 
 <div align="center">
