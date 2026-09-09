@@ -1,10 +1,4 @@
-<!--
-  TODOs before you push this:
-  1. If you'd rather not show your employer (DS Technologies) or LinkedIn, just delete those lines.
-  2. Swap in a real email badge if you want one: mailto:you@example.com
-  3. Featured Projects below use your 4 strongest repos (based on your public repo descriptions).
-     Swap in newer projects any time using the same pin-card format.
--->
+
 
 <div align="center">
 
@@ -12,7 +6,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Flutter+App+Developer;📱+Mobile+UI%2FUX+Specialist;⚡+Building+Scalable+Solutions)
 
-📍 Faisalabad, Pakistan&nbsp;&nbsp;·&nbsp;&nbsp;💼 Flutter Developer @ DS Technologies
 
 </div>
 
@@ -20,13 +13,8 @@
 
 ## 📱 About Me
 
-I'm a Flutter developer who builds mobile apps end-to-end — UI, state management, and backend integration. My recent work spans a real-time chat UI clone, an offline-first app with local SQLite storage, and a productivity app with a fully animated interface. I care about clean architecture, responsive layouts, and code the next person (often future-me) can actually follow.
+I'm a Flutter developer who builds mobile apps end-to-end — UI, state management, and backend integration. I care about clean architecture, responsive layouts, and code the next person (often future-me) can actually follow.
 
-## 🚀 Currently Focused On
-
-- Advanced Flutter animations & state management
-- Firebase Auth & Firestore
-- Clean, scalable app architecture
 
 ## 💬 Ask Me About
 
