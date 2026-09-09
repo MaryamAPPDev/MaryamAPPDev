@@ -90,15 +90,7 @@ I believe great apps start with great UI/UX — and Flutter makes that possible 
 </p> -->
 
 <!-- <h2>💻 Tech Stack</h2>
-<p>
-C • C# • C++ • Dart • Java • HTML5 • JavaScript • Kotlin<br><br>
-AWS • Firebase • Google Cloud • Render • Supabase • Appwrite • Vercel<br><br>
-Flutter • NodeJS • Express.js • NestJS • Django • Django REST<br><br>
-MySQL • SQLite • MongoDB • Prisma<br><br>
-Fastlane • GitHub Actions • Docker • GitHub • GitLab<br><br>
-Figma • Adobe XD • Notion • Postman • Tailwind CSS<br><br>
-Twilio • Nodemon • JWT • React Hook Form
-</p> -->
+
 
 <h2>✍️ Random Dev Quote</h2>
 <p>
