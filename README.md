@@ -40,17 +40,8 @@ I'm a Flutter developer who builds mobile apps end-to-end — UI, state manageme
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaryamAPPDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=MaryamAPPDev&theme=tokyonight&hide_border=true" />
 
-<sub>These are community-hosted widgets — if they don't load, it's usually a temporary rate limit, not a broken profile.</sub>
-
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MaryamAPPDev&theme=onedark&no-frame=true&row=1" />
-
-</div>
 
 ### 🤝 Connect with me
 
