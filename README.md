@@ -99,25 +99,6 @@ I enjoy turning ideas and designs into functional applications with a strong foc
 
 ---
 
-## 🏗️ Development Practices
-
-I focus on writing Flutter applications that are **organized, maintainable, and easy to extend**.
-
-* 📐 Responsive UI design
-* 🧩 Reusable Flutter widgets
-* 🗂️ Structured project organization
-* 🔄 State management
-* 🌐 REST API integration
-* 🔐 Firebase Authentication
-* ☁️ Firebase/Firestore integration
-* 💾 Local data persistence
-* 🧭 Navigation and routing
-* 🧹 Clean and readable code
-* 🐛 Debugging and problem solving
-* 🔀 Git & GitHub version control
-* 🎨 UI implementation from Figma/designs
-
----
 
 ## 📱 Featured Projects
 
