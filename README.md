@@ -96,47 +96,6 @@ I enjoy turning ideas and designs into functional applications with a strong foc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-I'm continuously expanding my Flutter development skills and currently focusing on:
-
-```text
-Flutter & Dart
-      ↓
-State Management
-      ↓
-REST APIs & Backend Integration
-      ↓
-Database Design
-      ↓
-MVVM & Clean Architecture
-      ↓
-Testing & Debugging
-      ↓
-Performance Optimization
-      ↓
-Production-Ready Flutter Apps
-```
-
-I'm also exploring **AI/ML concepts and their integration into mobile applications**.
-
----
-
-## 🎯 My Development Goals
-
-* 🚀 Become a professional-level Flutter Developer
-* 🏗️ Build production-ready mobile applications
-* 🧠 Strengthen software architecture skills
-* 🌐 Become confident with REST APIs and backend systems
-* 🗄️ Improve database and data modeling knowledge
-* 🧪 Learn Flutter testing and best practices
-* ⚡ Improve application performance
-* 🤖 Explore AI-powered mobile applications
-* 🌍 Contribute to meaningful open-source projects
-
 ---
 
 ## 📊 GitHub Stats
