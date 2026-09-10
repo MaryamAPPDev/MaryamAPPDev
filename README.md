@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Maryam
 
-### 🚀 Flutter Developer | Mobile App Development | UI/UX
+### 🚀 Flutter Developer | Mobile App Development 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=🚀+Flutter+Developer;📱+Building+Modern+Mobile+Apps;🎨+UI%2FUX+Focused+Developer;🔥+Learning+and+Building+Every+Day)
 
@@ -27,10 +27,6 @@
 I'm a **Flutter Developer** passionate about building modern, responsive, and user-friendly mobile applications.
 
 I enjoy turning ideas and designs into functional applications with a strong focus on **clean UI, maintainable code, state management, backend integration, and a smooth user experience**.
-
-I have a background in **Computer Science** and experience working with Flutter, Dart, Firebase, local databases, REST APIs, and modern development tools.
-
-Currently, I'm focused on strengthening my skills in **production-level Flutter development, application architecture, API integration, state management, and scalable mobile application development**.
 
 ```text
 🎯 Goal: Become a strong professional Flutter Developer
