@@ -98,26 +98,6 @@ I enjoy turning ideas and designs into functional applications with a strong foc
 </div>
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MaryamAPPDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=MaryamAPPDev&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamAPPDev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in **Flutter development opportunities, collaboration, and building useful mobile applications**.
