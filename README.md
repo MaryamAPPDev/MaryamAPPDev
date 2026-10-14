@@ -1,14 +1,9 @@
 <div align="center">
 
-# Hi, I'm Maryam Javed 👋
+# Hi, I'm Maryam  👋
 
 ### Software Engineer | Flutter Developer | Mobile App Development
 
-Building practical, user-focused mobile applications with clean architecture and maintainable code.
-
-[![GitHub](https://img.shields.io/badge/GitHub-MaryamAPPDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaryamAPPDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam%20Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-javed-4ba1163b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-maryamappdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maryamappdev)
 
 </div>
 
