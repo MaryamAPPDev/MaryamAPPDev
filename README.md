@@ -9,7 +9,7 @@
 
 ## 🔭 About Me
 
-I'm a Computer Science graduate and Flutter Developer based in Pakistan. I build cross-platform mobile applications that turn real-world problems into intuitive, reliable digital experiences.
+I'm Flutter Developer. I build cross-platform mobile applications that turn real-world problems into intuitive, reliable digital experiences.
 
 My work combines thoughtful UI/UX, application architecture, API integration, and local data management. I enjoy taking an idea from early requirements through implementation, testing, and refinement.
 
