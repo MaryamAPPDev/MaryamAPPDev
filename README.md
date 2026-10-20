@@ -25,11 +25,7 @@ My work combines thoughtful UI/UX, application architecture, API integration, an
 ## 🚀 Projects & Experience
 
 | Project | What it does | Technologies |
-| --- | --- | --- |
-| **MealMix** | Helps users discover meal ideas and recipes by ingredients and categories. | Flutter, Riverpod, GoRouter, TheMealDB API |
-| **RoomSync** *(in development)* | Helps roommates track shared expenses, split costs, and manage settlements. | Flutter, Riverpod, GoRouter, Supabase |
-| **Plant Disease Detection** | Identifies plant diseases using image-based machine learning. | Flutter, TensorFlow Lite, SQLite |
-| **Expense Tracker** | Tracks spending, budgets, and financial activity locally. | Flutter, Hive, MVVM |
+
 
 
 ## 👯 Collaboration
