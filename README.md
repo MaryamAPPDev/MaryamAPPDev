@@ -31,7 +31,6 @@ My work combines thoughtful UI/UX, application architecture, API integration, an
 | **Plant Disease Detection** | Identifies plant diseases using image-based machine learning. | Flutter, TensorFlow Lite, SQLite |
 | **Expense Tracker** | Tracks spending, budgets, and financial activity locally. | Flutter, Hive, MVVM |
 
-Explore my work on [GitHub](https://github.com/MaryamAPPDev).
 
 ## 👯 Collaboration
 
