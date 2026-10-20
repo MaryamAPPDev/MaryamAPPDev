@@ -22,12 +22,6 @@ My work combines thoughtful UI/UX, application architecture, API integration, an
 - **UI/UX implementation:** Translating designs into consistent, accessible, and user-friendly interfaces.
 - **Development workflow:** Git, GitHub, debugging, code reviews, and iterative improvement.
 
-## 🚀 Projects & Experience
-
-| Project | What it does | Technologies |
-
-
-
 ## 👯 Collaboration
 
 I'm open to collaborating on Flutter apps, mobile products, and software projects—especially solutions that improve everyday workflows and solve meaningful user problems.
